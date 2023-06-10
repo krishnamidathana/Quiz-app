@@ -226,7 +226,7 @@ li{
         top: 40px;
     }
     .next{
-        top: 35px;
+        top: 40px;
         left:-180px;
     }
     .question{
@@ -254,15 +254,9 @@ li{
         }
         .submit{
             left: -180px;
-            top: 590px;
+            top: 550px;
             display: none;
         }
 }
-@media (max-width:800px){
-    .count{
-        margin-top:30px;
-    }
-    .container h2{
-        top:20px
-}
+
 
