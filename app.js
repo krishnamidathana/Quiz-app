@@ -53,7 +53,7 @@ let adding
         function delaypanel (){
             quiz.style.display = 'block';
         }
-        setTimeout(delaypanel,1500)
+        setTimeout(delaypanel,1300)
         
  
          function countdown(){
