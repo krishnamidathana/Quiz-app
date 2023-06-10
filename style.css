@@ -21,7 +21,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(13, 13, 216);
+    background-color: rgb(121, 121, 219);
     border-radius: 5px;
     position: relative;
     overflow: hidden;
@@ -32,7 +32,7 @@ body{
   top: 10px;
   position: absolute;
   font-size: 40px;
-  color: black;
+  color: yellow;
 }
 .container p , .fa-arrow-down{
     position: absolute;
@@ -40,7 +40,7 @@ body{
     color: white;
     font-size: 2opx;
     font-weight: bold;
-    animation: anim 1s infinite alternate;
+    animation: anim .5s infinite alternate;
 }
 .fa-arrow-down{
     top: 130px;
@@ -223,10 +223,10 @@ li{
         font-weight: bold;
          }
     .previous{
-        top: 70px;
+        top: 40px;
     }
     .next{
-        top: 70px;
+        top: 40px;
         left:-180px;
     }
     .question{
