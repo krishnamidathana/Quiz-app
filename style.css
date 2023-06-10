@@ -199,7 +199,7 @@ li{
 @media (max-width:360px){
     .container{
         width: 350px;
-        height:90vh;
+        height:100vh;
     }
     .quiz{
         width: 350px;
@@ -254,7 +254,7 @@ li{
         }
         .submit{
             left: -180px;
-            top: 590px;
+            top: 490px;
             display: none;
         }
 }
