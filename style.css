@@ -198,11 +198,11 @@ li{
    }
 @media only screen and (max-width:480px){
     .container{
-        width: 350px;
+        width: 90%;
         height:100vh;
     }
     .quiz{
-        width: 350px;
+        width: 90%;
         height:100vh;
     }
     .count{
