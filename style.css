@@ -264,7 +264,7 @@ li{
 }
 @media only screen and (max-width:325px){ 
      .question{
-         font-size: 15px;
+         font-size: 10px;
         height:120px;
     }
      .container h2{
