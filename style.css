@@ -263,10 +263,7 @@ li{
         }
 }
 @media only screen and (max-width:325px){ 
-     .question{
-         font-size: 10px;
-        height:120px;
-    }
+    
      .container h2{
     top : 30px;
     }
@@ -276,6 +273,20 @@ li{
      .fa-arrow-down{
             top: 160px;
         }
+
+     .question{
+         font-size: 15px;
+        height:150px;
+    }
+        ul{
+        font-size: 15px;
+    }
+    li{
+       width : 150px;
+       font-weight: bold;
+       letter-spacing: 1px;
+        padding-top:10px;
+    }
    
 }
 
