@@ -266,7 +266,10 @@ li{
     top : 30px;
     }
      .container p{
-        top : 80px;
+        top : 120px;
+        }
+     .fa-arrow-down{
+            top: 160px;
         }
 }
 
