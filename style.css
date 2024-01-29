@@ -197,6 +197,9 @@ li{
    background-color:  blueviolet;
    }
 @media only screen and (max-width:480px){ 
+    .body{
+        margin:0;
+    }
     .container{
         width: 100%;
         height:100vh;
