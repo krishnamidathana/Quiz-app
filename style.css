@@ -261,7 +261,7 @@ li{
             display: none;
         }
 }
-@media only screen and (min-width:330px){ 
+@media only screen and (max-width:330px){ 
      .container h2{
     top : 30px;
     }
