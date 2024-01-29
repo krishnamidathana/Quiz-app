@@ -73,6 +73,7 @@ body{
     box-shadow: inset -6px -6px 8px rgba(0, 0, 0, 0.4),
                        2px 2px 27px rgba(0, 0, 0, 0.4);
      }
+
 @keyframes anim {
     0%{
        transform: translateY(10px);
@@ -262,6 +263,10 @@ li{
         }
 }
 @media only screen and (max-width:325px){ 
+     .container{
+        
+        height:150vh;
+    }
      .container h2{
     top : 30px;
     }
@@ -271,5 +276,8 @@ li{
      .fa-arrow-down{
             top: 160px;
         }
+    .question{
+           font-size: 15px;
+    }
 }
 
