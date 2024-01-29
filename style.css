@@ -274,6 +274,10 @@ li{
             top: 160px;
         }
 
+        .quiz{
+        height:150vh;
+    }
+
      .question{
          font-size: 20px;
         height:150px;
@@ -281,7 +285,7 @@ li{
         ul{
         font-size: 15px;
       flex-direction: row;
-    padding:5px 5px;
+    padding:0;
     }
     li{
        width : 150px;
