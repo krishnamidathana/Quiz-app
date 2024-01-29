@@ -285,14 +285,9 @@ li{
         ul{
         font-size: 15px;
       flex-direction: row;
-    padding:0;
+
     }
-    li{
-       width : 150px;
-       font-weight: bold;
-       letter-spacing: 1px;
-        padding-top:10px;
-    }
+
    
 }
 
